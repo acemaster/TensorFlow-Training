@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/acemaster/Documents/MachineLearning"
+		}
+	],
+	"settings": {
+        // ...
+        "python_interpreter": "/Users/acemaster/Documents/MachineLearning/tensor/bin/python",
+
+        "python_package_paths": [
+            "$home/.buildout/eggs",
+            "$project_path/addons"
+        ]
+    }
+}
